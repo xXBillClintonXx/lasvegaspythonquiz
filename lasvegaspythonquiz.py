@@ -15,7 +15,7 @@ QandA = ["1. What US State is Las Vegas located in? a) California b) Nevada c) W
 points = 0
 current = 0
 #Introduction to the quiz and gives instructions on how to answer the quiz
-print("Welcome to my Las Vegas quiz! Hope you enjoy your play! IMPORTANT: To answer questions type in the answer as it is written in the question. For example, in the question 'Which number comes first? a) 5 b)3 c)89 d) 6?' the answer is 3, so to answer you would type in 3 NOT c)/c")
+print("Welcome to my Las Vegas quiz! Hope you enjoy your play! IMPORTANT: To answer questions type in the answer as it is written in the question. For example, in the question 'Which number comes first? a) 5 b)3 c)89 d) 6?' the answer is 3, so to answer you would type in 3 NOT c)/c. Enter your answer following the dash at the end of the provided answers.")
 
 #Questions
 question1 = input(QandA[current])
